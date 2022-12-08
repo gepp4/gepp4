@@ -2,7 +2,7 @@
 #### I am a Junior Software Engineer
 
 ### Skills:
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>  Angular 2 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='20'>  Angular 2 
 -  Javascript / Phyton / Java / HTML / CSS 
 
 ### Working on...
