@@ -2,13 +2,10 @@
 #### I am a Junior Software Engineer
 
 ### Skills:
-- Angular 2
-- Javascript
-- Phyton
-- Java 
-- HTML
-- CSS 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>  Angular 2 
+-  Javascript / Phyton / Java / HTML / CSS 
 
+### Working on...
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React, Next.js, Tailwind 
