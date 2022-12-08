@@ -3,7 +3,12 @@
 
 ### Skills:
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='20'>  Angular 2 
--  Javascript / Phyton / Java / HTML / CSS 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='js' height='20'> Javascript
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cypress.svg' alt='cypress' height='20'> Cypress
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='20'> Phyton 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='20'> Java 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' height='20'> HTML 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css' height='20'> CSS 
 
 ### Working on...
 
