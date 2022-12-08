@@ -2,8 +2,13 @@
 #### I am a Junior Software Engineer
 
 ### Skills:
-* Angular 2
-ANGULAR 2 / JS / HTML / CSS  / PYTHON / JAVA 
+- Angular 2
+- Javascript
+- Phyton
+- Java 
+- HTML
+- CSS 
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React, Next.js, Tailwind 
