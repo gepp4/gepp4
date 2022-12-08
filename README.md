@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Antonino
 #### I am a Junior Software Engineer
 
-### Skills: 
+### Skills:
+* Angular 2
 ANGULAR 2 / JS / HTML / CSS  / PYTHON / JAVA 
 
 - 🔭 I’m currently working on this page. 
