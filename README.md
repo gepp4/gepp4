@@ -10,7 +10,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-theta-two-88.vercel.app/api?username=gepp4&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gepp4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-theta-two-88.vercel.app/api/top-langs/?username=gepp4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 <p align="center"> 
   Visitor count<br>
