@@ -4,10 +4,10 @@
 #### I am a Junior Software Engineer!
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,angular,react,python,html,css,java,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,tailwind,angular,python,html,css,java,docker)](https://skillicons.dev)
 ### Working on...
 
-- 🌱 I’m currently learning React, Next.js, Tailwind 
+🌱 I’m currently learning React, Next.js, Tailwind 
 </div>
 <div align="center">
   
