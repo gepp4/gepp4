@@ -33,4 +33,4 @@ I build with **[Claude Code](https://claude.com/claude-code)** every day. It han
 
 ## 📫 Get in touch
 
-Have a look at my projects on **[gepp4.dev](https://gepp4.dev)**, find me on [LinkedIn](https://linkedin.com/in/antonino-manuele-gargiulo), or write to me at [ant.gar98@gmail.com](mailto:ant.gar98@gmail.com).
+Have a look at my projects and get in touch through **[gepp4.dev](https://gepp4.dev)**, or find me on [LinkedIn](https://linkedin.com/in/antonino-manuele-gargiulo).
