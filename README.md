@@ -13,7 +13,7 @@
 
 I turn ideas into production systems, covering the interface, the API, the data and the cloud it all runs on. For the last four years I've built web apps, dashboards and internal tools for enterprise teams, and more recently AI-powered features such as chatbots and agentic pipelines on top of LLMs.
 
-I like owning a project end to end: designing the UI, shaping the backend, and defining the infrastructure as code so it deploys the same way every time.
+I like owning a project end to end: designing the UI, shaping the backend, and defining the infrastructure as code.
 
 ## 🛠 Stack
 
