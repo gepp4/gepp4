@@ -30,8 +30,7 @@ I build with **[Claude Code](https://claude.com/claude-code)** every day. It han
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-ff9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ## 🌱 Currently
-
-- Working on: AWS Certified Solutions Architect – Professional
+Working on: AWS Certified Solutions Architect – Professional
 
 ## 📫 Get in touch
 
