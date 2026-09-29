@@ -17,11 +17,11 @@ I like owning a project end to end: designing the UI, shaping the backend, and d
 
 ## 🛠 Stack
 
-TypeScript end to end. I reach for **Next.js** or **Astro** on the frontend, depending on whether the page is an app or mostly content, and **Hono** or **NestJS** on the backend, depending on whether the service is small and fast or large and structured. **PostgreSQL** holds the data, with **Redis** where speed matters. Everything ships on **AWS**, defined with **Pulumi** and packaged with **Docker** and **Kubernetes**.
+TypeScript end to end. I reach for **Next.js** or **Astro** on the frontend, depending on whether the page is an app or mostly content, and **Hono** or **NestJS** on the backend, depending on whether the service is small and fast or large and structured. **PostgreSQL** holds the data. Everything ships on **AWS**, defined with **Pulumi** and packaged with **Docker** and run on **ECS Fargate** or **EC2**.
 
 I build with **[Claude Code](https://claude.com/claude-code)** every day. It handles scaffolding, refactors and repetitive glue work, so I can spend my time on design, architecture and review.
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,next,astro,nestjs,tailwind,postgres,redis,aws,docker,kubernetes,python)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,next,astro,nestjs,tailwind,postgres,redis,aws,docker,python)](https://skillicons.dev)
 
 ## 🎓 Certifications
 
