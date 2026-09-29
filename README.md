@@ -2,35 +2,18 @@
 
 # Hi, I'm Antonino 👋
 
-**Fullstack TypeScript developer** building web apps and the cloud infrastructure they run on.
+**Full-stack developer based in Milan.** I build fast, well-crafted solutions, from design to infrastructure.
 
 </div>
 
 ## 🛠 Stack
 
-| Area      | Tools                               |
-| --------- | ----------------------------------- |
-| Frontend  | Astro, Next.js, React, Tailwind CSS |
-| Backend   | Nest.js, Hono, Node.js              |
-| Data      | PostgreSQL                          |
-| Infra     | AWS, Pulumi, Docker                 |
-| Languages | TypeScript, JavaScript, Python      |
-
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,next,astro,nestjs,tailwind,postgres,aws,docker,python)](https://skillicons.dev)
-
-## 🌐 Website
-
-Projects and writing live on my site: **[gepp4.github.io](https://gepp4.github.io)**
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,next,astro,nestjs,tailwind,postgres,redis,aws,docker,kubernetes,python)](https://skillicons.dev)
 
 ## 🌱 Currently
 
 - Working on: AWS Certified Solutions Architect – Professional
 
-## 📊 GitHub stats
+## 🌐 Website
 
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats-beige-phi.vercel.app/api?username=gepp4&theme=tokyonight)](https://github.com/gepp4)
-[![Top Langs](https://github-readme-stats-beige-phi.vercel.app/api/top-langs/?username=gepp4&layout=compact&theme=tokyonight)](https://github.com/gepp4)
-
-</div>
+Projects and experience live on my site: **[gepp4.dev](https://gepp4.dev)**
